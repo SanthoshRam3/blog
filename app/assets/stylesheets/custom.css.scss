@@ -41,3 +41,14 @@ body {
   flex-shrink: none;
 }
 /* Other Classes for Page Styling */
+.for-flex {
+  display: flex;
+  justify-content: center;
+}
+.row {
+  row-gap: 25px;
+  margin-bottom: 25px;
+}
+.text-center {
+  margin-bottom: 25px;
+}
